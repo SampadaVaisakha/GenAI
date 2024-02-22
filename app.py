@@ -21,8 +21,7 @@ response = ""
 
 submit = st.button("Get the Answer")
 
-## If ask button is clicked
-
+# If the button is clicked
 if submit:
     response = get_huggingface_response(input_text)
     st.subheader("The Response is")
