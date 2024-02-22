@@ -4,5 +4,5 @@ huggingface_hub
 transformers
 accelerate
 bitsandbytes
-python-dotenv
 streamlit
+python-dotenv
